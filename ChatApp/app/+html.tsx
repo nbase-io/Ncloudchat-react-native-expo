@@ -9,6 +9,10 @@ import * as ncloudchat from "ncloudchat";
 export default function Root({ children }: PropsWithChildren) {
 
 
+  // const projectId = "8be54b8b-32d6-4809-aa79-84c0d5df2e9c";
+  // const nc = new ncloudchat.Chat(true);
+  // nc.initialize(projectId);
+  // nc.setLang("en");
 
   return (
     <html lang="en">
